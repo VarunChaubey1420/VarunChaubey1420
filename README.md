@@ -1,116 +1,195 @@
-<h1 align="center">Hey 👋, I'm Varun Chaubey</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Student • Web Developer • Game Developer • Problem Solver
-</h3>
+# Hey there! 👋 I'm Varun Chaubey
 
-<p align="center">
-Building projects that combine creativity with technology.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;Three.js+Game+Developer;Always+Building+Something+Cool..." />
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=VarunChaubey1420&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/VarunChaubey1420?style=social" />
+<img src="https://img.shields.io/github/stars/VarunChaubey1420?style=social" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE Student
-- 💻 Passionate about Full Stack Development
-- 🎮 Currently building **Rolling Chaos**
-- 🌐 Creator of **CampusCore**
-- 📚 Building projects that solve real-world problems
-- 🌱 Always learning something new
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 💫 About Me
 
-### Languages
+```cpp
+class VarunChaubey {
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+public:
 
-### Frameworks & Libraries
+    string role = "Computer Science Student";
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
+    vector<string> interests = {
+        "Web Development",
+        "Game Development",
+        "UI/UX",
+        "Open Source"
+    };
 
-### Tools
+    vector<string> currentlyBuilding = {
+        "Rolling Chaos",
+        "CampusCore"
+    };
 
-Git • GitHub • VS Code • Blender • Canva • MySQL
+    string motto = "Build. Learn. Improve. Repeat.";
+};
+```
 
 ---
 
 # 🚀 Featured Projects
 
-### 🎮 Rolling Chaos
+## 🎮 Rolling Chaos
 
-A 3D bizarre vehicle racing game built with Three.js where everyday objects become racing machines.
+> A 3D bizarre vehicle racing game built using **Three.js** where everyday objects become insane racing machines.
 
----
+**Tech**
 
-### 🎓 CampusCore
-
-A centralized platform for students providing notes, practicals, previous year papers and study resources.
-
----
-
-### 🌦 SkyCast
-
-Modern weather application with dynamic UI and real-time weather updates.
+`JavaScript`
+`Three.js`
+`HTML`
+`CSS`
 
 ---
 
-### 📚 Arcane Archives
+## 🎓 CampusCore
 
-A premium digital library website for showcasing books.
+A centralized student platform that provides
+
+- 📚 Notes
+- 📝 Practicals
+- 📄 Previous Year Papers
+- 🎯 Academic Resources
 
 ---
 
-## 📈 GitHub Stats
+## 🌦 SkyCast
 
-<p align="center">
+A modern weather application with
 
-<img src="https://github-readme-stats.vercel.app/api?username=VarunChaubey1420&show_icons=true&theme=tokyonight"/>
+- Real-time Weather
+- Dynamic Themes
+- Responsive UI
+- Clean Design
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunChaubey1420&theme=tokyonight"/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunChaubey1420&layout=compact&theme=tokyonight"/>
+## 📚 Arcane Archives
 
+A premium digital library for showcasing books with a modern interface.
+
+---
+
+# ⚡ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,mysql"/>
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,threejs"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,blender,figma"/>
 </p>
 
 ---
 
-## 🌱 Currently Learning
+# 📊 GitHub Analytics
 
-- Advanced JavaScript
-- React
-- Three.js
-- Blender
-- Full Stack Development
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=VarunChaubey1420&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunChaubey1420&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🎯 2026 Goals
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VarunChaubey1420&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VarunChaubey1420&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunChaubey1420&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- ⚛ React
+- 🎮 Three.js
+- 🧠 Data Structures & Algorithms
+- 🛠 Backend Development
+- 🎨 Blender
+
+---
+
+# 🎯 2026 Goals
 
 - 🚀 Launch Rolling Chaos
-- 🌍 Grow CampusCore
-- 📚 Publish more projects
-- ⭐ Reach 1000 GitHub Contributions
+- ⭐ Contribute to Open Source
+- 📱 Build More Full Stack Projects
+- 🌍 Reach 500+ GitHub Contributions
+- 📚 Keep Learning Every Day
 
 ---
 
-## 🌐 Connect With Me
+# 💻 Developer Quote
 
-- GitHub: https://github.com/VarunChaubey1420
+> "First, solve the problem. Then, write the code."
 
 ---
 
-<p align="center">
+<div align="center">
 
-"Code. Create. Learn. Repeat."
+## 🤝 Let's Connect
 
-</p>
+<a href="https://github.com/VarunChaubey1420">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting!
+
+⭐ If you like my work, consider starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer"/>
+
+</div>
