@@ -2,11 +2,13 @@
 
 # Hey, I'm Varun Chaubey 👋
 
-### Computer Science Student • Developer • Building Digital Experiences
+<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%92%BB;Developer+%E2%9A%A1;Building+Digital+Experiences+%F0%9F%9A%80;Exploring+Three.js+%26+Game+Development+%F0%9F%8E%AE;Turning+random+ideas+into+real+projects." alt="Typing SVG" />
+
+<br>
 
 I turn ideas into things people can **see, use, and interact with.**
 
-<br>
+<br><br>
 
 <a href="https://varunchaubey1420.github.io">
   <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -128,7 +130,7 @@ A student-focused utility for calculating attendance percentages and figuring ou
 
 ## 🧭 The Journey So Far
 
-```text
+<pre>
 2023  →  Started coding with Python
   │
   ├── Explored programming fundamentals
@@ -151,3 +153,40 @@ A student-focused utility for calculating attendance percentages and figuring ou
   │
   ▼
  ???  →  Still building...
+</pre>
+
+---
+
+## 💭 How I Build
+
+> **Learn something → Build something → Break something → Fix it → Understand it better.**
+
+Most of what I know came from trying to build something that was slightly beyond what I already knew.
+
+That's the cycle I plan to keep following.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing **projects, ideas, technology, collaborations, or opportunities to build something interesting.**
+
+<a href="https://varunchaubey1420.github.io">
+  <img src="https://img.shields.io/badge/PORTFOLIO-VISIT-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/varun-chaubey-262784358/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:varunchaubey757@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<div align="center">
+
+### Always building. Always learning.
+
+<sub>Thanks for stopping by 👋</sub>
+
+</div>
