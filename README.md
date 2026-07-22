@@ -104,11 +104,14 @@ A student utility for tracking attendance percentages and calculating how many c
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=VarunChaubey1420&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
+    alt="Varun's GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunChaubey1420&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
+    alt="Varun's Top Languages"
   />
 </p>
 
